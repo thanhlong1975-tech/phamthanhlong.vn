@@ -11,28 +11,16 @@ sources:
 
 # Dây điện dân dụng
 
-## Tổng quan
+# VERIFIED FACTS
 
-Status: TODO_FROM_CATALOGUE
+## Official Source
 
----
+- CADIVI Catalogue Kỹ thuật 2026
 
-## Ứng dụng
-
-Status: TODO_FROM_CATALOGUE
-
----
-
-## Cấu tạo chung
-
-Status: TODO_FROM_CATALOGUE
-
----
-
-## Dòng sản phẩm
+## Product Lines
 
 | Product Code | Catalogue Page |
-|--------------|---------------:|
+|---------------|---------------:|
 | VC/LF | 24 |
 | VCm/LF | 25 |
 | VCmd/LF | 26 |
@@ -40,14 +28,54 @@ Status: TODO_FROM_CATALOGUE
 | VCmt | 28 |
 | CV/LF | 29 |
 
+## Verification Status
+
+- Product lines: VERIFIED
+- General description: PENDING
+- Applications: PENDING
+- Common construction: PENDING
+- Standards: PENDING
+
 ---
+
+# KNOWLEDGE
+
+## Tổng quan
+
+Status: PENDING
+
+Evidence:
+- Official Catalogue
+
+TODO_FROM_CATALOGUE
+
+## Ứng dụng
+
+Status: PENDING
+
+Evidence:
+- Official Catalogue
+
+TODO_FROM_CATALOGUE
+
+## Cấu tạo chung
+
+Status: PENDING
+
+Evidence:
+- Official Catalogue
+
+TODO_FROM_CATALOGUE
 
 ## Tiêu chuẩn
 
-Status: TODO_FROM_CATALOGUE
+Status: PENDING
 
----
+Evidence:
+- Official Catalogue
 
-## Tài liệu tham khảo
+TODO_FROM_CATALOGUE
 
-- CADIVI Catalogue Kỹ thuật 2026
+## Ghi chú
+
+Chỉ tổng hợp từ nguồn chính thức.
